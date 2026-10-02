@@ -1,0 +1,4 @@
+PPT-VERIFIED TECH STACK
+Frontend & UI: Next.js, React, TailwindCSS
+Quantum AI & Backend: Python, Qiskit, PennyLane, Cirq, Hugging Face / OpenAI
+Database & Deployment: Vercel, Supabase, PostgreSQL
